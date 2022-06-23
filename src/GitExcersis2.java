@@ -4,4 +4,9 @@ public class GitExcersis2 {
 	  int sum = a+b;
 	  return sum;
   }
+  public int mins(int b,int c){
+	  int mins = b-c;
+	  return mins;
+	  
+  }
 }
